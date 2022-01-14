@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shejal Kushwaha</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A little girl with big dreams</h3>
 <p align="center">- 🔭 I’m currently working on Full Stack Development</p>
 <p align="center">- 🌱 I’m currently learning Databases</p>
 <p align="center">- 👯 I’m looking to collaborate on Web Development Projects</p>
