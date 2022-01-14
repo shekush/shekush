@@ -6,6 +6,8 @@
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekush&label=Profile%20views&color=0e75b6&style=flat" alt="shekush" /> </p>
+<p><img align="right" src="https://cdn.dribbble.com/users/460298/screenshots/3471002/media/5e8682904bbe0b80864a07fd391879b1.gif" alt="gif width="300" height="300"/></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
