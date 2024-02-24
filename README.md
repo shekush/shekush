@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shejal Kushwaha</h1>
 <h3 align="center">A little girl with big dreams</h3>
-<p align="center">- 🔭 I’m currently working on Full Stack Development</p>
-<p align="center">- 🌱 I’m currently learning Databases</p>
-<p align="center">- 👯 I’m looking to collaborate on Web Development Projects</p>
+<p align="center">- 🔭 I’m currently working on as a Backend Developer in a Product-Based Startup</p>
+<p align="center">- 🌱 I’m working hard everyday to be a little better than yesterday :)</p>
+<p align="center">- 👯 I’m looking to collaborate on Backend Projects</p>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekush&label=Profile%20views&color=0e75b6&style=flat" alt="shekush" /> </p>
